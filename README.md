@@ -3,4 +3,4 @@
 </div>
 
 ### 
-[VK](https://vk.com/begi_bratishka)
+[mail](pioneerbeat@gmail.com)
