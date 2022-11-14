@@ -5,14 +5,14 @@
 </div>
 
 ### Skills
-*** JavaScript / TypeScript (ES6+)
-*** React / Redux
-*** SCSS
-*** Webpack
-*** Node.JS 
-*** WebSocket
-*** Git / GitHub
-*** BEM (CSS)
+***JavaScript / TypeScript (ES6+)
+***React / Redux
+***SCSS
+***Webpack
+***Node.JS 
+***WebSocket
+***Git / GitHub
+***BEM (CSS)
 
 
 ### 
