@@ -9,10 +9,10 @@ JavaScript / TypeScript (ES6+)<br/>
 React / Redux<br/>
 SCSS<br/>
 Webpack
-Node.JS<br/>
-WebSocket<br/>
-Git / GitHub<br/>
-BEM (CSS)<br/>
+Node.JS
+WebSocket
+Git / GitHub
+BEM (CSS)
 
 
 ### 
