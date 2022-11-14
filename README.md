@@ -8,7 +8,7 @@
 JavaScript / TypeScript (ES6+)<br/>
 React / Redux<br/>
 SCSS<br/>
-Webpack<br/>
+Webpack
 Node.JS<br/>
 WebSocket<br/>
 Git / GitHub<br/>
